@@ -1,5 +1,5 @@
-# <img width="86" height="91" alt="image" src="https://github.com/user-attachments/assets/31af9ee5-5735-4a35-a0bf-8b1ce00cd770" />
-Spirulina-Based Drug Discovery: In Vitro and In Silico Analysis
+# <img width="86" height="91" alt="image" src="https://github.com/user-attachments/assets/31af9ee5-5735-4a35-a0bf-8b1ce00cd770" />Spirulina-Based Drug Discovery: In Vitro and In Silico Analysis
+
 
 ## ⏣ Project Highlights
 ◆ **Spirulina Bioactivity Profiling**  
